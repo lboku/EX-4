@@ -72,6 +72,7 @@ width: 100%;
 display: flex;
 justify-content: space-between;
 align-items: center;
+background-color: bisque;
 }
 
 .world_art{
@@ -90,7 +91,7 @@ align-items: center;
 .logout{
   width: 80px;
   height: 20px;
-  background-color: #031625;
+  background-color: #310061;
     border: none;
     outline: none;
     border-radius: 3px;
